@@ -26,7 +26,7 @@ To authenticate we recommend using [OAuth](/apps/building-integrations/setting-u
 
 {% endif %}
 
-### Basic Authentication
+### Basic Authentication skendall3224@gmail.com mind ova matta 
 
 The API supports Basic Authentication as defined in
 [RFC2617](http://www.ietf.org/rfc/rfc2617.txt) with a few slight differences.
